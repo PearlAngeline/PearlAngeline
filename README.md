@@ -29,27 +29,33 @@ I'm a Computer Science and Data Science undergraduate passionate about Data Anal
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
+**Internships:**  
+- Research Intern – CSIR-4PI, Bengaluru (Jul–Oct 2025): AI for aerospace data analysis  
+- Software Dev Intern – Getskilled, Bengaluru (Apr–Aug 2025): Built scalable web tools & APIs  
+- AI/ML Intern – InternPe (Remote, Apr–May 2025): Developed ML prototypes
+---
 
 ## 🔥 Featured Projects
+
 **AI-Powered Fake Drug Detection System**  
 - Developed an AI system to identify counterfeit drugs using data analysis and blockchain for secure verification  
 - **Tech:** Python, Pandas, Blockchain APIs  
 - **Impact:** Enhances supply chain transparency and public health safety  
 
+**Mitosis Detection Using U-Net (Image Segmentation)**
+- Developed a deep learning system to detect mitotic cells in histopathology images using U-Net for pixel-level segmentation
+- Tech: Python, PyTorch, segmentation-models-pytorch, OpenCV, Matplotlib
+- Impact: Helps in accurate cancer diagnostics by highlighting mitotic regions and improving pathology analysis
+
+  **Diabetes Prediction Using Machine Learning**
+- Developed a machine learning model to predict diabetes risk using patient health data and feature analysis
+- Tech: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Impact: Enables early detection of diabetes and supports preventive healthcare decisions
+
 **Dimensionality Reduction in ML**  
 - Applied PCA, t-SNE, UMAP, and Autoencoders to visualize high-dimensional data and improve ML efficiency  
 - **Tech:** Scikit-learn, Matplotlib, TensorFlow  
-- **Impact:** Reduced feature space by 40%+ while maintaining 95% accuracy  
-
-**Weather Forecast CLI Tool**  
-- Python CLI app fetching real-time weather via APIs with robust error handling  
-- **Tech:** Python, Requests API, Click  
-- **Impact:** Quick, offline-capable forecasts for developers  
-
-**To-Do List Web App**  
-- Interactive task manager built with React for seamless add/update/track functionality  
-- **Tech:** React, HTML/CSS, Local Storage  
-- **Impact:** Streamlines personal productivity  
+- **Impact:** Reduced feature space by 40%+ while maintaining 95% accuracy    
 
 ---
 
@@ -60,25 +66,12 @@ I'm a Computer Science and Data Science undergraduate passionate about Data Anal
 ---
 
 ## 📚 Education & Experience
-**B.Tech in Computer Science & Data Science**  
+**Bachelor of Engineering (B.E.) in Computer Science Engineering & Data Science**  
 Maharaja Institute of Technology, Mysuru (Ongoing)
-
-**Internships:**  
-- Research Intern – CSIR-4PI, Bengaluru (Jul–Oct 2025): AI for aerospace data analysis  
-- Software Dev Intern – Getskilled, Bengaluru (Apr–Aug 2025): Built scalable web tools & APIs  
-- AI/ML Intern – InternPe (Remote, Apr–May 2025): Developed ML prototypes  
-
-**Certifications:**  
-- Microsoft: AI Fundamentals  
-- Infosys: Advanced Statistics for ML  
-- TCS: Data Science Essentials  
-- IBM: Machine Learning Basics  
-
----
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pearlangeline)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pearlangeline2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://pearlangeline.dev)
 
 Thanks for stopping by! Feel free to ⭐ star or fork my repos—always up for collaborating on cool AI/ML ideas. 🚀
+

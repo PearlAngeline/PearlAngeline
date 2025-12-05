@@ -47,7 +47,7 @@ I'm a Computer Science and Data Science undergraduate passionate about Data Anal
 - Tech: Python, PyTorch, segmentation-models-pytorch, OpenCV, Matplotlib
 - Impact: Helps in accurate cancer diagnostics by highlighting mitotic regions and improving pathology analysis
 
-  **Diabetes Prediction Using Machine Learning**
+**Diabetes Prediction Using Machine Learning**
 - Developed a machine learning model to predict diabetes risk using patient health data and feature analysis
 - Tech: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - Impact: Enables early detection of diabetes and supports preventive healthcare decisions
@@ -55,14 +55,8 @@ I'm a Computer Science and Data Science undergraduate passionate about Data Anal
 **Dimensionality Reduction in ML**  
 - Applied PCA, t-SNE, UMAP, and Autoencoders to visualize high-dimensional data and improve ML efficiency  
 - **Tech:** Scikit-learn, Matplotlib, TensorFlow  
-- **Impact:** Reduced feature space by 40%+ while maintaining 95% accuracy    
-
----
-
-## 📈 GitHub Stats
-![Pearl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PearlAngeline&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PearlAngeline&layout=compact&theme=radical)
-
+- **Impact:** Reduced feature space by 40%+ while maintaining 95% accuracy
+- 
 ---
 
 ## 📚 Education & Experience
@@ -74,4 +68,5 @@ Maharaja Institute of Technology, Mysuru (Ongoing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pearlangeline2@gmail.com)
 
 Thanks for stopping by! Feel free to ⭐ star or fork my repos—always up for collaborating on cool AI/ML ideas. 🚀
+
 
